@@ -1,4 +1,8 @@
 <div align="center">
+  <img height="180em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/juniioroliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniioroliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniioroliveira&layout=compact&langs_count=7&theme=dark"/>
