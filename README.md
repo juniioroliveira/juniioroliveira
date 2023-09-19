@@ -4,4 +4,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniioroliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,docker,figma,git,github,js,nodejs,linux,mysql,postman,powershell,react,reactivex,regex,vscode,&theme=dark)](https://)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,css,docker,figma,git,github,linux,mysql,postman,powershell,react,reactivex,regex,vscode,&theme=dark)](https://)
